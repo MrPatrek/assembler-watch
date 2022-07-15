@@ -5,7 +5,8 @@
 ;
 ; Before running the program:
 ;	- Set the speed of the processor to 64 kHz
-;	- Hide the memory panel (View -> Memory)
+;	- If you experience lags during the execution,
+;	  you should hide the memory panel (View -> Memory)
 ;
 ; Description:
 ;	The program represents a simple watch. On the beginning of
