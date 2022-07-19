@@ -1,4 +1,4 @@
-# assembler-watch
+# Watch program written in assembler
 
 A watch written in the assembly language. You can **set** the desired time, after which clock will begin to work. You can also **reset** it to a new time value during its work.
 
